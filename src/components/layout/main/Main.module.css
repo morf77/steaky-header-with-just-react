@@ -1,0 +1,8 @@
+.main {
+    background: linear-gradient(90deg,#0430de73 0%, #5effd98a 100%);
+    margin-top: 2vw;
+    padding: 3vw;
+    border-radius: 10px;
+    border: 5px inset rgba(255, 255, 255, 0.221);
+
+}

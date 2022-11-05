@@ -1,0 +1,12 @@
+.header {
+    background: linear-gradient(90deg,#5effd98a 0%,#0430de73 100%);
+    padding: 10vw 0;
+    border-radius: 10px;
+    border: 5px outset rgba(255, 255, 255, 0.221);
+    position:sticky;
+    top:0;
+    transition: 1s;
+}
+.active {
+    padding:5vw 0;
+}
